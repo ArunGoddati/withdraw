@@ -1,0 +1,72 @@
+/* Write your CSS here */
+.big-container {
+  background-color: #150b3e;
+  height: 90vh;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.logo {
+  color: #7c3aed;
+  font-size: 25px;
+  font-family: 'roboto';
+  background-color: #c7d2fe;
+  border-radius: 30px;
+  padding: 10px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+.top-main-heading {
+  color: #d4d2db;
+  font-family: 'roboto';
+  font-size: 25px;
+}
+.balance-visible-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.balance-heading {
+  color: #585076;
+  font-family: 'roboto';
+  font-size: 25px;
+}
+.amount {
+  color: #d4d2db;
+  font-family: 'roboto';
+  font-size: 25px;
+}
+.in-rupees-heading {
+  color: #585076;
+  font-family: 'roboto';
+  font-size: 15px;
+}
+.withdraw-heading {
+  color: #d4d2db;
+  font-family: 'roboto';
+  font-size: 25px;
+}
+.choose-sum-description {
+  color: #585076;
+  font-family: 'roboto';
+  font-size: 20px;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

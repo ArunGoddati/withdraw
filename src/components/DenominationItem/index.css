@@ -1,0 +1,15 @@
+.list-item {
+  list-style-type: none;
+}
+.button {
+  color: #d4d2db;
+  font-size: 25px;
+  background-color: #382f5a;
+  margin: 10px;
+  width: 150px;
+  height: 40px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d4d2db;
+  padding: 5px;
+}
